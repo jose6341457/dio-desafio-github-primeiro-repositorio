@@ -1,0 +1,14 @@
+Comandos
+
+Git init para iniciar e criar um repositorio
+Git add para adicionar arquivos ao stage
+Git mv "arquivo.md ./"pasta"/
+Git commit para criar uma foto do arquivo a remoto
+Git push origin main para enviara remoto
+Git config --global user.email "email"
+Git config --global user.name "nome"
+Git config --list para visualizar. Sair com "q"
+Git remote add origin https://"endereço do Github" 
+Lançar ao repositorio remoto
+Git remote set-url "novo endereço do Github"
+Git remote -v para listar e ver endereço
